@@ -133,3 +133,11 @@ Each `ScooterApp` should include the following methods
     - Log the list of registered users to the console.
     - Log the list of stations and how many scooters are at each station to the console.
     - Take a moment to format it nicely so you can read it.
+
+
+  # Scooter Project - Diagram
+![Screenshot 2024-10-04 at 16 43 02](https://github.com/user-attachments/assets/bb524b23-bc6d-4daa-936a-dba0c4ac28c8)
+
+  
+
+    
